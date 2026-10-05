@@ -1,0 +1,12 @@
+{
+  "name": "CodeyRocky",
+  "version": "1.1.0",
+  "description": "Custom firmware library for Makeblock Codey Rocky. LED matrix 16x8, sensors, Rocky chassis, speaker, IR. Replaces stock mBlock firmware.",
+  "keywords": "codey, rocky, makeblock, esp32, robot, led-matrix",
+  "homepage": "https://github.com/messinamirko99-design/codeyrocky-firmware",
+  "authors": [{ "name": "messinamirko99-design", "maintainer": true }],
+  "license": "GPL-2.0-or-later",
+  "frameworks": "arduino",
+  "platforms": "espressif32",
+  "headers": "CodeyRocky.h"
+}

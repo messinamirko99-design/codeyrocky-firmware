@@ -1,0 +1,9 @@
+GNU GENERAL PUBLIC LICENSE
+Version 2, June 1991
+
+This library is derived from Makeblock Codey Rocky firmware
+(https://github.com/FFtust/micropython_esp32_local) and is licensed
+under the GNU General Public License v2.0 or later.
+
+You may redistribute and/or modify it under the terms of the GPL-2.0-or-later.
+See https://www.gnu.org/licenses/old-licenses/gpl-2.0.html
